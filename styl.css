@@ -35,3 +35,31 @@ body{
   transform: translate(40px,-40px);
   opacity: .4;
 }
+.fa {
+  padding: 5px;
+  font-size: 25px;
+  width: 40px;
+  height:auto;
+}
+.fa:hover {
+  color:white;
+
+}
+  
+/* Facebook */
+.fa-facebook {
+  color: white;
+}
+  .fa-linkedin {
+  color: white;
+}.fa-instagram {
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  color: white;
+}
+.fa-github {
+  color: white;
+}
