@@ -1,3 +1,0 @@
-# naveenjoshi profile 
-``````
-My Resume
